@@ -1,0 +1,4 @@
+some:
+    property: anything
+    other:
+        property: stateless
