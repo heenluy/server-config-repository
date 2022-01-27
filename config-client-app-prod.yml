@@ -1,4 +1,4 @@
 some:
-    property: anything
+    property: author
     other:
-        property: stateless
+        property: appplication
